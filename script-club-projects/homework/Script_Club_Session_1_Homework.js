@@ -1,4 +1,6 @@
 // Session 1 : Homework Assignment
+console.log(`https://repl.nighthauk.com/?x=id/8MVBZJVQM \n`)
+
 // 1. Write a program to declare variables of different data types.
 console.log(`Hi Ryan/Josh, Thanks for the awesome session. \n Arjun Sharma is submitting the Homework Assignment 1 \n`);
 
